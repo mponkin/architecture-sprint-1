@@ -38,3 +38,7 @@
   + ImagePopup - попап ля просмотра отдельного изображения
 
 запуск не реализован
+
+# Задание 2
+
+[https://drive.google.com/file/d/1mozoAFKbaaSqgYw0MF4tJm1aEDieezuU/view?usp=sharing] (Ссылка на решение)
