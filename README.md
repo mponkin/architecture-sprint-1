@@ -41,4 +41,4 @@
 
 # Задание 2
 
-[https://drive.google.com/file/d/1mozoAFKbaaSqgYw0MF4tJm1aEDieezuU/view?usp=sharing] (Ссылка на решение)
+[Ссылка на решение](https://drive.google.com/file/d/1mozoAFKbaaSqgYw0MF4tJm1aEDieezuU/view?usp=sharing)
